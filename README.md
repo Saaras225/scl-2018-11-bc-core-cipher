@@ -7,18 +7,18 @@ En criptografía, el cifrado César, también conocido como cifrado por desplaza
 
 ### Uso de la aplicación.
 
-La aplicación está enfocada en codificar y decodificar mensajes entre comandos militares durante una guerra, para que en dado caso si el enemigo logra interceptar las comunicaciones, no pueda decifrar las mismas, ya que las comunicaciones se mantienen cifradas de manera distinta en base a quien recibe el mensaje y como lo decofica el usuario receptor de dicho mensaje.
+La aplicación está enfocada en codificar y decodificar mensajes entre comandos militares durante una guerra, para que en dado caso si el enemigo logra interceptar las comunicaciones, no pueda descifrar las mismas, ya que las comunicaciones se mantienen cifradas de manera distinta en base a quien recibe el mensaje y como lo decodifica el usuario receptor de dicho mensaje.
 
 
 ### A quién está dirigida la aplicación?
 
-Está enfocada en ser usada como medio de comunicación estratégico entre los comandos (escuadrones) que conforman un sistema de milicia.
+Está enfocada en ser usada como medio de comunicación estratégico entre los comandos (escuadrónes) que conforman un sistema de milicia.
 
-La intención es que los comandos puedan comunicar mensajes cifrados entre ellos con codificaciones distintas dependiendo de a que comando (escuadron) será enviado dicho mensaje. Donde el usuario (militar) debe ingresar el nombre y el número asignado al comando que recibe el mensaje.
+La intención es que los comandos puedan comunicar mensajes cifrados entre ellos con codificaciones distintas dependiendo de a que comando (escuadrón) será enviado dicho mensaje. Donde el usuario (militar) debe ingresar el nombre y el número asignado al comando que recibe el mensaje.
 
-Ejemplo: Si se envía un mensaje al  escuadron Aguila Roja 6, eso quiere decir que cuando aguila roja 6 reciba el mensaje debe ser decodificado con un offset de 6 para poder obtener su mensaje cifrado del escuadron que lo envía.
+Ejemplo: Si se envía un mensaje al escuadrón Águila Roja 6, eso quiere decir que cuando Águila roja 6 reciba el mensaje debe ser decodificado con un offset de 6 para poder obtener su mensaje cifrado del escuadrón que lo envía.
 
-y si Aguila Roja 6 deseara enviar un mensaje codificado a Bandera Blanca 2, el escuadron receptor debe decodificar dicho mensaje con el offset que nombra a su escuadrón (en este caso el 2).
+y si Aguila Roja 6 deseara enviar un mensaje codificado a Bandera Blanca 2, el escuadrón receptor debe decodificar dicho mensaje con el offset que nombra a su escuadrón (en este caso el 2).
 
 ### Interfaz de Usuario
 
@@ -28,26 +28,26 @@ El color rojo y Azul utilizado en los títulos hace referencia a lo que se conoc
 
 La misma se presenta en 3 pantallas:
 
-1.-Inicio: Donde se da una Bienvenida rápida al usuario, invitandolo a Ingresar.
+1.-Inicio: Donde se da una Bienvenida rápida al usuario, invitándolo a Ingresar.
 
 ![cifrado César](https://imageshack.com/a/img921/1593/7NttMq.png)
 
 2.-Codificado/decodificador: Es la pantalla "madre" de la aplicación ya que en esta encontramos la utilidad principal de la aplicación (codificar/decodificar).
 
-el título llama al usuario a ingresar el texto, el cual se ingresa en la primera caja de texto. luego se debe seleccionar el escuadron y el número de peloton (salto) asignado al mismo (ejemplo: Aguila Negra,6).
+el título llama al usuario a ingresar el texto, el cual se ingresa en la primera caja de texto. luego se debe seleccionar el escuadrón y el número de pelotón (salto) asignado al mismo (ejemplo: Águila Negra,6).
 
 Luego se debe clickear en la opción que queremos, bien sea para codificar o decodificar el mensaje y así obtener en la segunda caja de texto la cual se encuentra debajo de los botones codificadores.
 
 Luego podemos encontrar la opción de nuevo mensaje, la cual coloca en blanco la aplicación y nos permite codificar/decodificar un nuevo mensaje según la necesidad del usuario.
 
-y por último el boton de Salir, el cual brinda un cierre seguro del codificador.
+y por último el botón de Salir, el cual brinda un cierre seguro del codificador.
 
 ![cifrado César](https://imageshack.com/a/img922/290/nvIrtR.jpg)
 
-3.-Salida: esta ultima pantalla despide al usuario con un corto mensaje, dandole a su vez la oportunidad de volver a iniciar la aplicación nuevamente si así lo desea.
+3.-Salida: esta última pantalla despide al usuario con un corto mensaje, dándole a su vez la oportunidad de volver a iniciar la aplicación nuevamente si así lo desea.
 
 ![cifrado César](https://imageshack.com/a/img921/9190/tbhlFD.jpg)
 
 el diseño de las pantallas cuenta con fondos de pinturas de guerras civiles las cuales buscan hacer referencia inmediata a la Guerra.
 
-El color rojo y Azul utilizado en los títulos evoca a lo que se conoce como colores políticos, donde el rojo hace referencia a revolución y sangre y el azul a la monarquía de la época, al cielo y el mar.
+El color Rojo y Azul utilizado en los títulos evoca a lo que se conoce como colores políticos, donde el rojo hace referencia a revolución y sangre y el azul a la monarquía de la época, al cielo y el mar.
