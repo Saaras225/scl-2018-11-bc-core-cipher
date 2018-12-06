@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <link rel= "stylesheet" href="style.css">
+  <body id="dos">
+    <h1 id="ingresa">INGRESA TEXTO A CODIFICAR</h1>
+      <input type="text" id="codemsj">
+      <br>
+      <select id="comando" name="COMANDO">
+        <option value="1">AGUILA ROJA
+        <option value="2">BANDERA BLANCA
+        <option value="3">AGUILA BLANCA
+        <option value="4">AGUILA NEGRA
+        </select>
+      <input type="number" id="number">
+      <br>
+      <button type="button" id="code" onclick= "codificar()">CODIFICA</button>
+      <button type="button" id="decode" onclick="decodifica()">DECODIFICA</button>
+      <br>
+      <input type= "text" id="decodemsj">
+      <br>
+      <button type="button" id="nuevomsj" onclick="reset()">NUEVO MENSAJE</button>
+      <br>
+      <button type="button" id="salir" onclick="window.location='exit.HTML'">SALIR</button>
+
+      <script src="cipher.js"></script>
+      <script src="index.js"></script>
+      </script>
+  </body>
+</html>
