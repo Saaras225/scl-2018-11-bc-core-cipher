@@ -18,7 +18,7 @@ background-size: 100% 100%;
 #inicia {
 background-color: gray;
 border: none;
-color: strong black;
+color: black;
 padding: 40px 40px;
 margin: 90px;
 text-align: center;
@@ -79,14 +79,15 @@ background: #EEE8AA;
 button {
 background-color: gray;
 border: none;
-color: strong black;
+color:black;
 padding: 15px 15px;
 margin: 10px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
 font-size: 17px;
-font-family:strong Courier;
+font-family:Courier;
+font-weight: bold;
 margin-left: 50%;
 transform: translateX(-40%)
 }
@@ -106,28 +107,30 @@ background: #EEE8AA;
 #code {
 background-color: gray;
 border: none;
-color: strong black;
+color: black;
 padding: 15px 15px;
 margin: 10px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
 font-size: 17px;
-font-family:strong Courier;
+font-family: Courier;
+font-weight: bold;
 margin-left: 40%;
 }
 
 #decode {
 background-color: gray;
 border: none;
-color: strong black;
+color: black;
 padding: 15px 15px;
 margin: 10px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
 font-size: 17px;
-font-family:strong Courier;
+font-family: Courier;
+font-weight: bold;
 margin-left: 8%;
 }
 
@@ -159,7 +162,7 @@ background-size: 100% 100%;
 .salir {
 background-color: gray;
 border: none;
-color: strong black;
+color: black;
 padding: 15px 15px;
 margin: 70px;
 text-align: center;
@@ -172,4 +175,7 @@ transform: translateX(-50%);
 }
 .salir:hover {
   background: gray;
+}
+#enviar{
+  width: 250px;
 }
