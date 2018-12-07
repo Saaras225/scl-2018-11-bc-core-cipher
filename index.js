@@ -24,6 +24,7 @@ function decodifica(){
     botn.innerHTML='ENVIANDO...';
     botn.disabled=true;
     setTimeout(function(){
+      alert("Tu mensaje ha sido enviado a "+document.getElementById("comando").value+" "+document.getElementById("number").value);
       botn.innerHTML='ENVIAR';
       botn.disabled=false;
     },5500);
