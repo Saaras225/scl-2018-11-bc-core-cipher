@@ -18,7 +18,18 @@ function decodifica(){
     document.getElementById("number").value="";
     document.getElementById("decodemsj").value="";
   }
-  
+
+  function envia(){
+    var botn = document.getElementById("enviar");
+    botn.innerHTML='ENVIANDO...';
+    botn.disabled=true;
+    setTimeout(function(){
+      botn.innerHTML='ENVIAR';
+      botn.disabled=false;
+    },5500);
+  }
+
 
 document.getElementById("code").addEventListener("click", codificar);
 document.getElementById("decode").addEventListener("click", decodifica);
+document.getElementById("enviar").addEventListener("click", envia)
