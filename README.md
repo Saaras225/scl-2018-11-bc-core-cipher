@@ -32,17 +32,23 @@ La misma se presenta en 3 pantallas:
 
 ![cifrado César](https://imageshack.com/a/img921/1593/7NttMq.png)
 
-2.-Codificado/decodificador: Es la pantalla "madre" de la aplicación ya que en esta encontramos la utilidad principal de la aplicación (codificar/decodificar).
+2.-Codificador/decodificador: Es la pantalla "MADRE" de la aplicación ya que en ella encontramos la utilidad principal de la aplicación (codifica/decodifica).
 
 el título llama al usuario a ingresar el texto, el cual se ingresa en la primera caja de texto. luego se debe seleccionar el escuadrón y el número de pelotón (salto) asignado al mismo (ejemplo: Águila Negra,6).
 
-Luego se debe clickear en la opción que queremos, bien sea para codificar o decodificar el mensaje y así obtener en la segunda caja de texto la cual se encuentra debajo de los botones codificadores.
+Luego se debe clickear en la opción que queremos para nuestro mensaje, bien sea "codifica" o "decodifica" y así obtendremos el texto resultante en la segunda caja de texto.
 
-Luego podemos encontrar la opción de nuevo mensaje, la cual coloca en blanco la aplicación y nos permite codificar/decodificar un nuevo mensaje según la necesidad del usuario.
+Después podemos encontrar la opción de "enviar" nuestro mensaje. El cual al ser efectivamente enviado, nos arroja un mensaje informando que nuestro mensaje ha sido enviado exitosamente al comando seleccionado.
+
+Otra opción que encontramos es "nuevo mensaje", la cual coloca en blanco la aplicación y nos permite codificar/decodificar un nuevo mensaje según la necesidad del usuario.
 
 y por último el botón de Salir, el cual brinda un cierre seguro del codificador.
 
-![cifrado César](https://imageshack.com/a/img922/290/nvIrtR.jpg)
+![cifrado César](https://imageshack.com/a/img924/7949/4k2j8i.jpg)
+
+
+![cifrado César](https://imageshack.com/a/img923/2576/JqBldo.jpg)
+
 
 3.-Salida: esta última pantalla despide al usuario con un corto mensaje, dándole a su vez la oportunidad de volver a iniciar la aplicación nuevamente si así lo desea.
 
