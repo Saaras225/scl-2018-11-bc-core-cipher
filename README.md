@@ -30,7 +30,7 @@ La misma se presenta en 3 pantallas:
 
 1.-Inicio: Donde se da una Bienvenida rápida al usuario, invitándolo a Ingresar.
 
-![cifrado César](https://imageshack.com/a/img921/1593/7NttMq.png)
+![cifrado César](https://imageshack.com/a/img921/9793/5214Lb.jpg)
 
 2.-Codificador/decodificador: Es la pantalla "MADRE" de la aplicación ya que en ella encontramos la utilidad principal de la aplicación (codifica/decodifica).
 
